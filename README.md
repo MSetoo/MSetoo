@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm <a href="#">MSetoo</a> 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student • Backend & Automation • Web3 curious</em>
+  <em>Software Engineering Student • Backend & Automation •</em>
 </p>
 
 <p align="center">
@@ -28,23 +28,25 @@
 
 ## 🧩 About me
 
-- 🔭 I’m currently exploring **backend**, **automation** and **web technologies**
-- 🌱 Always learning **best practices**, **clean code** and **software architecture**
-- 🤝 I like to collaborate and learn from other developers
-- 🎯 Goal: become a solid backend/automation engineer
+- I’m currently exploring **backend**, **automation** and **web technologies**
+- Always learning **best practices**, **clean code** and **software architecture**
+- I like to collaborate and learn from other developers
+- Goal: become a solid backend/automation engineer
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
 ---
