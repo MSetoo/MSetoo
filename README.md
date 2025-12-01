@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/MSetoo">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Building+cool+things;Backend+%7C+Automation+%7C+Web3;Learning+every+day">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Building+cool+things;Backend+%7C+Automation+%7C+Web;Learning+every+day">
   </a>
 </p>
 
@@ -73,5 +73,5 @@
 
 ## 📫 Reach me
 
-- ✉️ Email: *(tu correo)*
-- 🌐 *(Portafoli*
+- ✉️ Email: hoymateo@gmail.com
+- 🌐 
