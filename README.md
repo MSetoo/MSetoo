@@ -1,7 +1,7 @@
 <!-- Banner opcional (puedes subir una imagen a tu repo y cambiar la ruta) -->
 <!-- <img src="banner.png" width="100%"> -->
 
-<h1 align="center">Hi there, I'm <a href="#">MSetoo</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="#">MSetoo</a> </h1>
 
 <p align="center">
   <em>Software Engineering Student • Backend & Automation •</em>
