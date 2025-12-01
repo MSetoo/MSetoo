@@ -57,9 +57,6 @@
 - 🔹 University & personal projects in **Java**
 - 🔹 Scripts to automate tasks and process data
 
-*(cuando tengas repos chidos, puedes ponerlos aquí con links)*
-
----
 
 ## 📈 GitHub Activity
 
