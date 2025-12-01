@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MSetoo/MSetoo/main/assets/msetoo-chip.gif" width="400px">
+  <img src="https://raw.githubusercontent.com/MSetoo/MSetoo/main/assets/msetoo.gif" width="400px">
 </p>
 
 
