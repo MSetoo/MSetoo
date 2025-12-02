@@ -6,7 +6,11 @@
 <p align="center">
   <em>Software Engineering Student • Backend & Automation •</em>
 </p>
-
+<p align: "center">
+  <em>
+  Hello, I'm a software developer focused on building real-world, automated solutions, combining backend, advanced web scraping, intelligent automation, databases, and web architecture. I'm currently studying Software Engineering at the National Polytechnic School (EPN), where I develop academic and personal projects with a professional focus.
+  </em>
+</p>
 <p align="center">
   <a href="https://github.com/MSetoo">
     <img src="https://komarev.com/ghpvc/?username=MSetoo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
