@@ -77,5 +77,5 @@
 
 ## 📫 Reach me
 
-- ✉️ Email: hoymateo@gmail.com
+- ✉️ Email: hoymateo17@gmail.com
 - 🌐 Web : https://msetoo.github.io/PaginaWEBCV/
